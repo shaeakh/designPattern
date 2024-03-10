@@ -31,3 +31,10 @@ class HelloWorld {
         
     }
 }
+
+// output
+// id 5 name A
+// id 10 name B
+// id 10 name B
+// id 1 name C
+
